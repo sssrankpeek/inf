@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\TEMP.1406-02.001\source\repos\inf1\inf1\Source.c(20,10): warning C4778: "printf": незавершенная строка форматирования "%\n"
+C:\Users\TEMP.1406-02.001\source\repos\inf1\inf1\Source.c(21,10): warning C4778: "printf": незавершенная строка форматирования "%\n"
+  inf1.vcxproj -> C:\Users\TEMP.1406-02.001\source\repos\inf1\x64\Debug\inf1.exe
